@@ -1,5 +1,5 @@
 # Brick_Break
-Remake of classic 'Brickbreak' game with Pygame.
+Remake of classic 'Breakout' game with Pygame.
 
 The game involves a paddle (the player) hitting a ball back and forth towards some bricks.  The goal is to destroy all the bricks 
 without losing your ball.  This game was written in python 3 with pygame library.
